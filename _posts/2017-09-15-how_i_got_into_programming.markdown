@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I got into programming "
-date:   2017-09-11 18:22:25 -0400
+date:   2017-09-15 15:01:53 -0400
 ---
 
 `***May, 2017***`
