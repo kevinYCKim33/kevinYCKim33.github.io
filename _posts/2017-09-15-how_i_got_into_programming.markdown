@@ -4,23 +4,23 @@ title:  "How I got into programming "
 date:   2017-09-15 15:01:53 -0400
 ---
 
-### May, 2017
+## May, 2017
  
-Stuck in a traffic jam on the way back from Napa Valley, after serving as a tour guide for my friends, I formed a roadmap of my life for the next nine months in my head that I found unnerving and exhilarating at the same time.  
- 
+Stuck in a traffic jam on the way back from Napa Valley, after serving as a tour guide for my friends, I formed a roadmap of my life for the next nine months in my head that I found unnerving and exhilarating at the same time.
+
 *I will quit my job at the end of the month.
- 
+
 I am not quitting to switch companies. 
- 
+
 I am leaving the structural engineering industry for good.
- 
+
 I will self-study programming for two months, and then take the plunge into a coding bootcamp.
- 
+
 I will be a developer in 2018.  
- 
+
 I will have to move in with my mom in the meanwhile.  Every 27-year-old man's dream. * 
- 
-### August ~ December 2006
+
+## August ~ December 2006
  
 My first introduction to programming came sophomore year of high school when I took a course called *Computer Science* innocuously thinking that it's basically the same class from middle school where you get an A for pretending to learn how to type for the first time (while proceeding to play Flash games in between). A nice complement to getting an A for playing dodgeball and kickball right after lunch.  
  
@@ -30,7 +30,7 @@ I had registered in a learning curve I never asked for, and felt basically out o
  
 I peaked at the right moment in the course, proceeded to ace the final, and promptly dropped the course for the spring semester, though feeling proud but never quite seeing the practicality of what I'd just learned--oblivious that the first iPhone would come out six months later (and will never stop coming out) and that I'll be living out in the Bay Area starting August of 2015. 
  
-### January 2014 ~ June 2015
+## January 2014 ~ June 2015
 
 After getting my Bachelor's degree in Civil Engineering at University of Colorado Boulder in December of 2013, I moved out to California ten days later to start my Master's program in Structural Engineering at University of California at Davis--basically doubling down on my personal essay I wrote as a 19-year-old kid which most likely was chock full of bold and cliché proclamations like: "I knew I was destined to be a structural engineer when my parents got me a box of Legos when I was four." 
  
@@ -42,13 +42,13 @@ I liked that feeling so much that I chose to do my Master's project to graduate 
  
 Virtually every day for eight weeks from April to June, I turned strangely nocturnal, and would enter the computer lab at 9pm with a can of Red Bull (no longer part of my diet) and built parts of the program with just my Structural Dynamics textbook, Stack Overflow, and YouTube, and quietly disappear out of the lab and into the daylight just as the 8am classes began. At the end of the project, what started as a blank file, was now accepting earthquake acceleration data (historic or hypothetical) and outputting a chimney model that would shake and sway to an earthquake data I had put in.    
  
-### August 2015 ~ May 2017
+## August 2015 ~ May 2017
  
 I went through waves of interviews for a structural engineering position in the Bay Area after graduation, showing to my prospective employers my Master's project that I was quite proud of.  It was met with a lot of "oh that's cute" smile followed by a pivot question asking more about my background in steel/wood/concrete design courses.  I accepted an offer at a firm in San Francisco, and worked there for 1.5 years.  
  
 It just didn't quite feel right to me. I just felt this weird dissonance of  designing and drawing up things for contractors to build, without ever having built any of these myself.  When things did get built in real-life, I felt proud, no doubt.  But I never got the type of rush and the high of feeling like the most clever person in the room whenever I wrote an elegant line of code, or a program behaved exactly I thought it would.  
  
-### May 2017
+## May 2017
  
 Back to the traffic jam in Napa…
  
