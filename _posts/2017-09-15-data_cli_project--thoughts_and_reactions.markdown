@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data CLI Project--Thoughts and Reactions"
-date:   2017-09-11 20:21:58 -0400
+date:   2017-09-15 15:01:52 -0400
 ---
 
 
