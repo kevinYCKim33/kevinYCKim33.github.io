@@ -8,7 +8,7 @@ date:   2017-09-15 15:01:53 -0400
  
 Stuck in a traffic jam on the way back from Napa Valley, after serving as a tour guide for my friends, I formed a roadmap of my life for the next nine months in my head that I found unnerving and exhilarating at the same time.
 
-*I will quit my job at the end of the month.
+I will quit my job at the end of the month.
 
 I am not quitting to switch companies. 
 
