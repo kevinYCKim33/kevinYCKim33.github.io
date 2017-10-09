@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "How I got into programming "
+title:      "Life Reset "
 date:       2017-09-15 15:01:53 -0400
 permalink:  how_i_got_into_programming
 ---
