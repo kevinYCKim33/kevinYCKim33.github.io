@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: kevikim33@gmail.com
 copyright_name: kevinYCKim33
 description: > # this means to ignore newlines until "baseurl:"
-  A young man's quarter-life-crisis coding journey from Milan to Minsk. 
+  Kevin rambles about programming he learned.  
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kevinYCKim33
