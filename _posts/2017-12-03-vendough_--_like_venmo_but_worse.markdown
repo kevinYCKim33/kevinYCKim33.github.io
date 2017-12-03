@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Vendough -- like Venmo but worse"
-date:       2017-12-03 08:00:07 +0000
+date:       2017-12-03 03:00:08 -0500
 permalink:  vendough_--_like_venmo_but_worse
 ---
 
@@ -16,11 +16,11 @@ The roadblock really cleared once I watched an excellent Railscast on [Self-Refe
 
 There were so many challenges that came along from just trying to mirror Venmo's behavior, but of particular interest was trying to think like a hacker, and trying to be a step ahead of them. 
 
-![a lot more code goes under the hood to mimic Venmo's elegant interface than I had thought.](https://imgur.com/zUyV4Fl)
+![a lot more code goes under the hood to mimic Venmo's elegant interface than I had thought.](https://i.imgur.com/zUyV4Fl.png)
 
 For example, I realized based on the way I set up my database-model relations, a hacker could steal money by paying someone a negative amount. A hacker could also open up the Chrome console and then just change values of my Pay/Request buttons and put in data that'd corrupt my database. In stark contrast to my BudgetChallenge app, where the major security issue was blocking ways for hackers to view other people's challenges and logs, implementing a user-to-user relations where *money transactions* are involved meant I had to be extra careful and creative in how I validate data to be stored.   
 
-![only if I knew jQuery, I wouldn't need that submit button](https://imgur.com/a/4Xrbx)
+![only if I knew jQuery, I wouldn't need that submit button](https://i.imgur.com/36uNH1g.png)
 
 The more I tried to mimic Venmo's behavior exactly, the more I realized that I need jQuery in my life.  As I switch gears into JavaScript land starting tomorrow, hopefully I'll gain more chops and confidence to build up more functionalities into Vendough. 
 
